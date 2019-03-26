@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\igedi\desktop\201411021_ceng218termproject\201411021_ceng218termproject\list.h(229): warning C4715: 'List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Search': not all control paths return a value
+  201411021_Ceng218TermProject.vcxproj -> C:\Users\igedi\Desktop\201411021_Ceng218TermProject\Debug\201411021_Ceng218TermProject.exe
